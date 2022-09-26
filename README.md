@@ -1,0 +1,2 @@
+# patikaOdev
+patika ödevleri
